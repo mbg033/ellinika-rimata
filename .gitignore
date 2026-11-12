@@ -1,0 +1,8 @@
+.sites-checkout/
+audit/
+.deploy/
+node_modules/
+.wrangler/
+.env
+.env.*
+.DS_Store
